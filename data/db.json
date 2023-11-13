@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Mastering MongoDB",
+      "body": "MongoDB is a NoSQL database designed for scalability. It stores data in flexible JSON-like documents, allowing for complex structures. To get started, install MongoDB and create collections for your data. Mastering MongoDB is essential for MERN stack development.",
+      "author": "mongodb-enthusiast",
+      "id": 10
+    },
+    {
+      "title": "Express.js Essentials",
+      "body": "Express.js is a web application framework for Node.js, simplifying the process of building robust APIs. Key features include middleware, routing, and template engines. To use Express.js, install it with npm, create routes, and leverage middleware for enhanced functionality.",
+      "author": "express-enthusiast",
+      "id": 12
+    },
+    {
+      "title": "React.js Basics",
+      "body": "React.js is a JavaScript library for building user interfaces. It enables developers to create reusable UI components and manage application state efficiently. To get started, install React using Create React App, create components, and use state and props for data management.",
+      "author": "react-enthusiast",
+      "id": 13
+    },
+    {
+      "title": "Node.js Fundamentals",
+      "body": "Node.js is a server-side JavaScript runtime for building scalable network applications. It features an event-driven architecture, npm for package management, and cross-platform compatibility. Install Node.js, create server-side logic with Express.js, and leverage npm packages for added functionality.",
+      "author": "node-enthusiast",
+      "id": 14
+    }
+  ]
+}
