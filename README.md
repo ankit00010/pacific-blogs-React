@@ -1,4 +1,4 @@
-![image](https://github.com/ankit00010/pacific-blogs-React/assets/111192702/1a6b4cdb-9951-4115-bc58-9699bdb3b977)# Pacific-Blogs: React Simple CRUD Application
+# Pacific-Blogs: React Simple CRUD Application
 
 ## Overview
 
