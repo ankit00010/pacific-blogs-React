@@ -1,4 +1,4 @@
-# Pacific-Blogs: React Simple CRUD Application
+![image](https://github.com/ankit00010/pacific-blogs-React/assets/111192702/1a6b4cdb-9951-4115-bc58-9699bdb3b977)# Pacific-Blogs: React Simple CRUD Application
 
 ## Overview
 
@@ -14,13 +14,6 @@ json-server: A high-performance mock API server, seamlessly integrated for effic
 - **Responsive Design:** A sleek and intuitive user interface meticulously designed with CSS and JSX.
 - **JSON Server Integration:** Leveraging `json-server` for streamlined data serving and management, facilitating seamless development and testing.
 - Basic overview of blog home and create
-![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/c776f246-a09d-4fb5-8af0-46eb988bf51c)
-![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/b7be6fbc-65b7-4997-9f9b-770c80e7629f)
-
-Creating a blog
-![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/342407cf-370f-441f-a5f4-a31377e49606)
-
-![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/363ca5fe-7880-4993-96c3-e3ee94fcad33)
 
 
 ## Getting Started
@@ -51,5 +44,11 @@ Ensure you have Node.js and npm installed on your machine.
 
 
 Email: ankitmishra.work005@gmail.com
+
+![image](https://github.com/ankit00010/pacific-blogs-React/assets/111192702/302c8261-ad79-4a27-b1c7-c59d9fc8f7ce)
+![image](https://github.com/ankit00010/pacific-blogs-React/assets/111192702/c2046c3c-1dcd-423f-8c19-b461722a21e2)
+![image](https://github.com/ankit00010/pacific-blogs-React/assets/111192702/fdadbc6c-9dee-4119-ae7c-e2ec2a6865df)
+
+
 
 
