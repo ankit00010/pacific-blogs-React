@@ -9,6 +9,12 @@ React.js: The frontend is powered by this cutting-edge JavaScript library, ensur
 CSS/JSX: Meticulously crafted styling and component structure to enhance user experience.
 json-server: A high-performance mock API server, seamlessly integrated for efficient data management.
 
+
+![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/c776f246-a09d-4fb5-8af0-46eb988bf51c)
+![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/b7be6fbc-65b7-4997-9f9b-770c80e7629f)
+![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/ae083a76-bdcf-44d0-8bfb-de06ca73d691)
+
+
 ## Key Features
 - **CRUD Operations:** Conduct Create, Read, Update, and Delete operations on blog entries effortlessly.
 - **Responsive Design:** A sleek and intuitive user interface meticulously designed with CSS and JSX.
