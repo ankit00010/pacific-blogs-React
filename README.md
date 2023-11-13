@@ -13,6 +13,15 @@ json-server: A high-performance mock API server, seamlessly integrated for effic
 - **CRUD Operations:** Conduct Create, Read, Update, and Delete operations on blog entries effortlessly.
 - **Responsive Design:** A sleek and intuitive user interface meticulously designed with CSS and JSX.
 - **JSON Server Integration:** Leveraging `json-server` for streamlined data serving and management, facilitating seamless development and testing.
+- Basic overview of blog home and create
+![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/c776f246-a09d-4fb5-8af0-46eb988bf51c)
+![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/b7be6fbc-65b7-4997-9f9b-770c80e7629f)
+
+Creating a blog
+![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/342407cf-370f-441f-a5f4-a31377e49606)
+
+![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/363ca5fe-7880-4993-96c3-e3ee94fcad33)
+
 
 ## Getting Started
 
@@ -43,12 +52,4 @@ Ensure you have Node.js and npm installed on your machine.
 
 Email: ankitmishra.work005@gmail.com
 
-Basic overview of blog home and create
-![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/c776f246-a09d-4fb5-8af0-46eb988bf51c)
-![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/b7be6fbc-65b7-4997-9f9b-770c80e7629f)
-
-Creating a blog
-![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/342407cf-370f-441f-a5f4-a31377e49606)
-
-![image](https://github.com/ankit00010/pacific-blogs/assets/111192702/363ca5fe-7880-4993-96c3-e3ee94fcad33)
 
